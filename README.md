@@ -1,2 +1,2 @@
 # predicciones-de-ventas
-Proyect 1 of Data Science Course
+Project 1 of Data Science Course
